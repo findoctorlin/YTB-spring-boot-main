@@ -1,0 +1,8 @@
+#pizza.sauce=bbq
+#pizza.topping=chicken
+#pizza.crust=stuffed
+
+pizza:
+  sauce: bbq
+  topping: chicken
+  crust: stuffed

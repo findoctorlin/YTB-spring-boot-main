@@ -1,6 +1,6 @@
 package com.deviro.configuration;
 
-import com.deviro.configuration.config.PizzaConfig;
+import   com.deviro.configuration.config.PizzaConfig;
 import lombok.Builder;
 import lombok.extern.java.Log;
 import org.springframework.boot.CommandLineRunner;
