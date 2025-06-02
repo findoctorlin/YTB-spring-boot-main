@@ -10,6 +10,7 @@ import javax.sql.DataSource;
 public class DatabaseConfig {
 
     @Bean
+    // Used for querying the database
     public JdbcTemplate jdbcTemplate(final DataSource dataSource) {
         return new JdbcTemplate(dataSource);
     }
